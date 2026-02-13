@@ -9,7 +9,7 @@ This repository contains the Verilog implementation of a UART protocol with FIFO
 
 ## UART Structure
 
-> **Note:** Every signal in the structure that is outside the UART TOP boundary will be automatically driven by the testbench or by an external system. For a deeper understanding, feel free to check out my **[System on Chip Project]
+> **Note:** Every signal in the structure that is outside the UART TOP boundary will be automatically driven by the testbench or by an external system. For a deeper understanding, feel free to check out my **[System on Chip Project](https://github.com/Sai2521/RISC-V-Processor-AHB-SoC-and-Multiple-peripherals-using-APB-Bus-with-AHB2APB-Bridge-)**.
 
 ![UART STRUCTURE]![alt text]<img width="1536" height="1024" alt="ChatGPT Image Feb 13, 2026, 05_17_21 AM" src="https://github.com/user-attachments/assets/3ad9bc8f-39c4-490c-883e-b718106974fd" />
 
